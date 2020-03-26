@@ -269,9 +269,15 @@ M.config.data = {
 //				M.config.path.jhudata+'/archived_data/archived_time_series/time_series_2019-ncov-Deaths.csv',
 //				M.config.path.jhudata+'/archived_data/archived_time_series/time_series_2019-ncov-Recovered.csv',
 
-				M.config.path.jhudata+'/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Confirmed.csv',
-				M.config.path.jhudata+'/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Deaths.csv',
-				M.config.path.jhudata+'/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Recovered.csv',
+
+//				M.config.path.jhudata+'/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Confirmed.csv',
+//				M.config.path.jhudata+'/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Deaths.csv',
+//				M.config.path.jhudata+'/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Recovered.csv',
+
+				// 2020-03-26 11:45:47
+				M.config.path.jhudata+'/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv',
+				M.config.path.jhudata+'/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv',
+				M.config.path.jhudata+'/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv',
 
 			],
 			source:{
